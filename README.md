@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning codin
 - 💞️ I’m looking to collaborate on world
 - 📫 How to reach me happy
-- 😄 Pronouns: anas
-- ⚡ Fun fact: negro
+- 😄 Pronouns: he
+- ⚡ Fun fact: M-PSY
 
 <!---
 anassvip/anassvip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
